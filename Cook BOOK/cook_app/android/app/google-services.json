@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016172854056",
+    "project_id": "cooklogin",
+    "storage_bucket": "cooklogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016172854056:android:c8a461a99b59e2d0e5ae1d",
+        "android_client_info": {
+          "package_name": "com.example.cook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016172854056-pefj4lgfeq9ilcrivsr4idlvqsu561vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbE7lHptWyvdYOgXry6woETRBlLr0epIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016172854056-pefj4lgfeq9ilcrivsr4idlvqsu561vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
